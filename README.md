@@ -1,5 +1,5 @@
 """필요한 패키지 목록"""<br/>
-
+아직 정리가 안되어 있습니다.<br/>
 from detectingevent import *<br/>
 from nltk.tokenize.casual import casual_tokenize<br/>
 import re<br/>
