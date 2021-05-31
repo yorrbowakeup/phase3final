@@ -1,15 +1,17 @@
-from detectingevent import *
-from nltk.tokenize.casual import casual_tokenize
-import re
-from collections import Counter
-from gensim.models import Word2Vec
-import numpy as np
-from sklearn.cluster import AgglomerativeClustering, DBSCAN, MiniBatchKMeans, KMeans
-from gensim.models.doc2vec import Doc2Vec, TaggedDocument
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.neighbors import NearestNeighbors
-import pandas as pd
-from sklearn.manifold import TSNE
-import matplotlib.pyplot as plt
-import matplotlib.cm as cm
-from sklearn.decomposition import PCA
+"""필요한 패키지 목록"""<br/>
+
+from detectingevent import *<br/>
+from nltk.tokenize.casual import casual_tokenize<br/>
+import re<br/>
+from collections import Counter<br/>
+from gensim.models import Word2Vec<br/>
+import numpy as np<br/>
+from sklearn.cluster import AgglomerativeClustering, DBSCAN, MiniBatchKMeans, KMeans<br/>
+from gensim.models.doc2vec import Doc2Vec, TaggedDocument<br/>
+from sklearn.feature_extraction.text import TfidfVectorizer<br/>
+from sklearn.neighbors import NearestNeighbors<br/>
+import pandas as pd<br/>
+from sklearn.manifold import TSNE<br/>
+import matplotlib.pyplot as plt<br/>
+import matplotlib.cm as cm<br/>
+from sklearn.decomposition import PCA<br/>
