@@ -1,6 +1,6 @@
 """필요한 패키지 목록"""<br/>
 아직 정리가 안되어 있습니다.<br/>
-helping2 @@@@2가 붙은 파일은 그래프 클러스터링을 시도한 파일<br/>
+helping2 calculating file은 파일은 그래프 클러스터링을 시도한 파일<br/>
 from detectingevent import *<br/>
 from nltk.tokenize.casual import casual_tokenize<br/>
 import re<br/>
