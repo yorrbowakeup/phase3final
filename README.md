@@ -1,6 +1,10 @@
 """필요한 패키지 목록"""<br/>
 아직 정리가 안되어 있습니다.<br/>
 helping2 calculating file은 파일은 그래프 클러스터링을 시도한 파일<br/>
+sift.py 파일을 무시하셔도 됩니다. (추후 업데이트할 가능성이 있습니다.)<br/>
+<br/>
+<br/>
+<br/>
 from detectingevent import *<br/>
 from nltk.tokenize.casual import casual_tokenize<br/>
 import re<br/>
